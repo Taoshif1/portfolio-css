@@ -113,7 +113,8 @@ Thanks to the open-source community for providing resources and inspiration.
 Here are some snapshots of the portfolio's visual appearance:
 
 * **Desktop View:** 🖥️
-    * /![image](https://github.com/user-attachments/assets/20df73ea-cd3a-46c6-9521-f32887bf0df3)
+    *
+    * ![image](https://github.com/user-attachments/assets/20df73ea-cd3a-46c6-9521-f32887bf0df3)
     * ![image](https://github.com/user-attachments/assets/6be71833-b981-4972-913c-517e763e5f72)
     * ![image](https://github.com/user-attachments/assets/175bc320-3adf-4186-8108-1b783427041e)
     * ![image](https://github.com/user-attachments/assets/bed281a6-b175-4639-a972-f17986822b5f)
