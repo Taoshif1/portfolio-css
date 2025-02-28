@@ -65,38 +65,41 @@ Example basic HTML Structure:
 ## CSS Learning Focus 📚
 This project was built for learning purposes and covers key CSS concepts:
 
-## Basic CSS 👶
-## Introduction to CSS 🌐
- - Ways to add CSS - inline, internal & external 🔗
- - CSS Syntax, Selectors 🎯
- - CSS3 Variables 🏷️
- - CSS specificity ⚖️ 
- - Typography - font, text, color, icon 🖋️🎨
-Box Model (margin, border, padding, content) 📦
-Design a card 💳
-Intermediate CSS 🧑‍💻
-Background properties 🖼️
-Basic layout - display property - inline, block, inline-block, float, positioning, flex 📐
-How to make a circle ⭕
-Responsiveness 📱💻
-Advance CSS 👨‍🏫
-Grid layout 🧱
-Transition ➡️
-Animation 🎬
-BEM architecture 🏗️
-Contributing 🤝
+## Basic CSS
+
+ - introduction to CSS
+ - Ways to add CSS - inline, internal & external
+ - CSS Syntax, Selectors
+ - CSS3 Variables
+ - CSS specificity
+ - Typography - font, text, color, icon
+ - Box Model (margin, border, padding, content)
+ - Design a card
+
+## Intermediate CSS
+ 
+ - Background properties
+ - Basic layout - display property - inline, block, inline-block,  float, positioning, flex
+ - How to make a circle
+ - Responsiveness
+
+## Advance CSS
+
+- Grid layout
+- Transition
+- Animation
+- BEM architecture
+
+# NOTE: Advance CSS was discussed in a different repo.
+
+## Contributing 🤝
 Contributions are welcome! If you have any improvements or bug fixes, please feel free to submit a pull request. Let's make this project better together! 💪
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes.
+4. Push to your branch.
+5. Submit a pull request.
 
-Fork the repository.
-Create a new branch for your changes.
-Commit your changes.
-Push to your branch.
-Submit a pull request.
-License 📜
-This project is licensed under the MIT License.
-
-Author 👨‍💻
-Taoshif1 - GitHub Profile
-Acknowledgements 🙏
+## Acknowledgements 🙏
 Thanks to the open-source community for providing resources and inspiration.
-If this repository helped you in any way, please feel free to give it a star! ⭐ Happy coding! 🚀
+# If this repository helped you in any way, please feel free to give it a star! ⭐ Happy coding! 🚀
