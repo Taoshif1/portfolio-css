@@ -41,7 +41,7 @@ You can view the live website here: [https://taoshif1.github.io/portfolio-css/](
 
 This CSS is intended to be used with a corresponding HTML structure. The main purpose is to style the structure. For example, the css styles elements like the header, navigation, sections and footer.
 
-Example basic HTML Structure:
+Basic HTML Structure example:
 
 ```html
 <!DOCTYPE html>
