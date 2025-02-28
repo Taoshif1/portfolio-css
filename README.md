@@ -6,6 +6,10 @@ This repository contains the CSS code for a simple portfolio website. It's made 
 
 This project focuses solely on the CSS styling of a portfolio. It demonstrates how to create a responsive and visually appealing layout using pure CSS. The HTML structure is assumed to be in place (there is also a dedicated repo for only HTML) and this repository provides the styles to bring it to life. ✨
 
+## Live Website 🌐
+
+You can view the live website here: [https://taoshif1.github.io/portfolio-css/](https://taoshif1.github.io/portfolio-css/)
+
 ## Features 🌟
 
 * **Clean and Minimalist Design:** Focuses on readability and ease of navigation.
